@@ -1,7 +1,7 @@
 terraform init   to initalize
 terraform plan   to plan
 terraform apply  to create resource
-terraform apply --auto-approve
+terraform apply --auto-approve   to auto approve apply
 terraform show   to show details
 terraform validate     validate the resource
 terraform fmt    formats the file with proper indentation
@@ -9,4 +9,3 @@ terraform providers  shows provider
 terraform output  displays output
 terraform refresh refresh the state of resource
 terraform graph   show data to be converted in to graph
-terraform 
