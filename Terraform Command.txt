@@ -9,3 +9,8 @@ terraform providers  shows provider
 terraform output  displays output
 terraform refresh refresh the state of resource
 terraform graph   show data to be converted in to graph
+terraform state list 
+terraform state show <resource>
+terraform state mv <to move resoucres>
+terraform state pull 
+terraform state rm <to delete item>
