@@ -14,3 +14,6 @@ terraform state show <resource>
 terraform state mv <to move resoucres>
 terraform state pull 
 terraform state rm <to delete item>
+terraform get --it can pull modules from repo
+terraform workspace new name  to create new workspace
+terraform workspace list
